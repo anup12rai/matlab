@@ -1,0 +1,11 @@
+import math
+a = math.cbrt(27)
+print(a)
+b = math.sqrt(16)
+print(b)
+c = math.pow(2,3)
+print(c)
+d = math.log(10)
+print(d)
+e = math.exp(1)
+print(e)
